@@ -18,7 +18,7 @@ This project aims to examine the interplay between human activities and the envi
 
     ♻️ Waste management
 
-We also consider the role of policies, government structures, and social behavior in shaping environmental outcomes.
+
 🎯 Project Scope
 
 This ontology focuses on capturing key concepts and relationships within the domain of environmental sustainability. It is designed to:
