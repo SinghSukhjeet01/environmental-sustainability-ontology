@@ -32,8 +32,8 @@ This ontology focuses on capturing key concepts and relationships within the dom
     Enable semantic querying of sustainability knowledge
 
 The ultimate goal is to support informed, evidence-based transitions toward more sustainable systems.
-🔄 Ontology Reuse
 
+🔄 Ontology Reuse
 This ontology is built entirely from scratch. No existing ontologies have been reused, imported, or extended. All classes, properties, and individuals are custom-developed to suit the specific needs of this project.
 ❓ Competency Questions
 
