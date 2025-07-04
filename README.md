@@ -1,6 +1,7 @@
 🌱 Environmental Sustainability Ontology
 
 A Semantic Web and Knowledge Engineering project modeling the complex relationship between human activities and environmental sustainability using OWL and RDF-based technologies.
+
 📘 Introduction
 
 Humanity’s relentless exploitation of natural resources, unchecked industrial activity, and rapid urbanization have led to global environmental degradation. This manifests as climate change, biodiversity loss, pollution, and resource depletion — all of which pose significant risks to ecosystems, public health, and planetary well-being.
